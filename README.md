@@ -11,8 +11,8 @@ My original project was ChronoVault, an application for organizing and managing 
 The project was created by Kimberly Aguilar, with guidance from course materials and class instruction.
 
 Include screenshots of:
-The Folder Maker app running in the console
-The generated project folder on the Desktop
-The ReadMe.txt file
-Your Git repository
-Your Discord post
+The Folder Maker app running in the console,
+The generated project folder on the Desktop,
+The ReadMe.txt file,
+My Git repository,
+My Discord post
